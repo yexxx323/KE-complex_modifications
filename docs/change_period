@@ -1,0 +1,19 @@
+{
+    "type": "basic",
+    "from": {
+        "key_code": "period",
+        "modifiers": {
+            "optional": [
+                "caps_lock"
+            ]
+        }
+    },
+    "to": [
+        {
+            "key_code": "down_arrow",
+            "modifiers": [
+                "left_shift"
+            ]
+        }
+    ]
+}
